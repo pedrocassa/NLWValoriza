@@ -17,12 +17,6 @@ Clone o projeto para a máquina local
 Instale as dependências
 
 ```bash
-  npm install
-```
-
-ou
-
-```bash
   yarn install
 ```
 
